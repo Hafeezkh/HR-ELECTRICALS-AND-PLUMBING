@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+
+}
+.brand-name{
+    background-image: linear-gradient(-90deg,#f8d125,#f8d125);
+    font-weight: 600px;
+    font-size: 1vw;
+    padding: .5%;
+    padding-top: 30px;
+    }
+.head-bar{
+    background-color: red;
+}
+.n-bar{
+    background-color: red;
+    padding-right: 60vh;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar .fa{
+    color: #ffff!important;
+    font-size: 26px;
+    outline: none!important;
+    border: none !important;;
+}
+.nav-link:hover{
+    font-weight: 600;
+    border-bottom: 1px solid #ffff;
+}
+.nav-link{
+    font-size: 16px;
+    margin: 3px;
+    color: #ffff!important;
+    font-weight: 500px;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: #ffff!important;
+    font-size: 2vw;
+    outline: none!important;
+    border: none !important;
+    
+
+}
+@media only screen and (min-width:620px){
+    .navbar-brand{
+        visibility: hidden;
+       
+    }
+}
+
+@media only screen and (max-width:1000px){
+.hm-cls{
+         visibility: hidden;
+}
+}
+@media only screen and (max-width:1000px){
+    .nav-link:hover{
+        border-bottom: none!important;
+    }
+    }
+.navbar-brand:hover{
+    font-weight: 600;
+    border-bottom: 1px solid #ffff;
+
+}
+.home-page{
+    background-color: rgb(252, 252, 126);
+    background: url("../re-image.jpg");
+    height: 100vh;
+    background-size: 50%;
+    background-size: cover;
+    border-radius: 0px!important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.home-page2{
+        background-color: rgb(255, 249, 161);
+        height: 100vh;
+        opacity: .5;
+        padding-top: 150px
+        
+    }
+    .home-cap{
+        color: rgb(5, 5, 5);
+        font-weight: bold;
+        font-size: 6vw;
+    }
+    .home-cap2{
+        color: rgb(0, 0, 0);
+        font-size: 3vw;
+        padding-top: 30px;
+        padding-right: 10%;
+        padding-left: 10%;
+    }    
+    .contact-buttn a {
+        font-size: 14px;
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: 700;
+        text-transform: capitalize;
+        display: inline-block;
+        letter-spacing: 1px;
+        background-color: #f11010;
+        outline: none;
+        border-radius: 4px;
+        /* opacity: 0.8; */
+        padding: 8px 12px;
+        border: none;
+    }
+    .products{
+        background-image: linear-gradient(-90deg,#fdea96,#fdea92);
+    }
+    .prd-hd{
+        padding: 2%;
+        background-image: linear-gradient(-90deg,#f70000,#fa0000);
+        font-weight: 600;
+        font-size: 3vw;
+    }
+    .r1{
+        padding-top: 10px;
+    }
+    .r1 .r2 .r3{
+        margin-left: 20p;
+    }
+    .Services{
+        background-image: linear-gradient(-90deg,#faeaab,#faeba9);
+    }
+    .Services-hd{
+        padding: 2%;
+        background-image: linear-gradient(-90deg,#f70000,#fa0000);
+        font-weight: 600;
+        font-size: 3vw;
+    }
+    .r3{
+        padding-bottom: 20px;
+    }
+    .other-Services{
+        background-image: linear-gradient(-90deg,#fcf3d0,#fdf5d6);
+    }
+    .othServ-hd{
+        padding: 2%;
+        background-image: linear-gradient(-90deg,#f70000,#fa0000);
+        font-weight: 600;
+        font-size: 3vw;
+    }
+    .r4{
+        padding-bottom: 20px;
+    }
+    .about{
+        background-image: linear-gradient(-90deg,#fcf3d0,#fdf5d6);
+    }
+    .about-hd{
+        padding: 2%;
+        background-image: linear-gradient(-90deg,#f70000,#fa0000);
+        font-weight: 600;
+        font-size: 3vw;
+
+    }
+    .r5{
+        padding-bottom: 20px;
+    }
+    .plb-hd{
+        padding-top: 10px;
+    }
+    .cardfitings{
+        height: 46vh;
+    }
