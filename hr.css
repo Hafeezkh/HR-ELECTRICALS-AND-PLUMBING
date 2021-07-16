@@ -70,7 +70,7 @@
 }
 .home-page{
     background-color: rgb(252, 252, 126);
-    background: url("../re-image.jpg");
+    background: url("../images/re-image.jpg");
     height: 100vh;
     background-size: 50%;
     background-size: cover;
@@ -114,7 +114,7 @@
         border: none;
     }
     .products{
-        background-image: linear-gradient(-90deg,#fdea96,#fdea92);
+        background-image: linear-gradient(-90deg,#ffffff,#ffffff);
     }
     .prd-hd{
         padding: 2%;
@@ -166,8 +166,29 @@
         padding-bottom: 20px;
     }
     .plb-hd{
-        padding-top: 10px;
+        padding-top: 20px;
+        color: #1a1915;
+        font-weight:bolder;
+        padding: 20px;
     }
     .cardfitings{
-        height: 46vh;
+        height: 50vh;
     }
+    .cpvc{
+        height: 50vh;
+    }
+    .fibre{
+        height: 60vh;
+    }
+    .cpsteel{
+        height: 60vh;
+    }
+    .dish{
+        height:56vh;
+    }
+    .elec-hd{
+        padding-top: 20px;
+        color: #1a1915;
+        font-weight:bolder;
+        padding: 20px;
+   }
