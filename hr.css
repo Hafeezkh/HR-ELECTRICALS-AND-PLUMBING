@@ -114,7 +114,7 @@
         border: none;
     }
     .products{
-        background-image: linear-gradient(-90deg,#ffffff,#ffffff);
+        background-image: linear-gradient(-90deg,#faeaab,#faeba9);
     }
     .prd-hd{
         padding: 2%;
@@ -191,4 +191,61 @@
         color: #1a1915;
         font-weight:bolder;
         padding: 20px;
+   }
+   .card-pvc{
+       height: 50vh;
+   }
+   .wire{
+       height: 45vh;
+   }
+   .elect-fit{
+       height: 45vh;
+
+   }
+   .Led-bulb{
+       height: 45vh;
+   }
+   .About-2{
+    background-color: rgb(252, 252, 126);
+    background: url("../images/pexels-vecislavas-popa-1571470.jpg");
+    height: 100vh;
+    background-size: 50%;
+    background-size: cover;
+    border-radius: 0px!important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .plumbing{
+       height: 46vh;
+   }
+   .wireing{
+       height: 46vh;
+   }
+   .fisher{
+       height: 42vh;
+   }
+   .hrdwre{
+       height: 41vh;
+   }
+   .blade{
+       height: 41vh;
+   }
+   .About-cap{
+    padding-top: 25vh;
+    font-weight: bold;
+    font-size: 6vh;
+    
+   }
+   .content{
+    background-color: rgb(26, 22, 22);
+    opacity: .5;
+    height: 100vh;
+   }
+   .cont-hd{
+    padding: 2%;
+    background-image: linear-gradient(-90deg,#f70000,#fa0000);
+    font-weight: 600;
+    font-size: 3vw;
+
    }
