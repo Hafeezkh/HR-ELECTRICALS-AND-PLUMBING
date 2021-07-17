@@ -98,24 +98,8 @@
         padding-right: 10%;
         padding-left: 10%;
     }    
-    .contact-buttn a {
-        font-size: 14px;
-        color: #ffffff;
-        text-decoration: none;
-        font-weight: 700;
-        text-transform: capitalize;
-        display: inline-block;
-        letter-spacing: 1px;
-        background-color: #f11010;
-        outline: none;
-        border-radius: 4px;
-        /* opacity: 0.8; */
-        padding: 8px 12px;
-        border: none;
-    }
-    .products{
-        background-image: linear-gradient(-90deg,#faeaab,#faeba9);
-    }
+    
+    
     .prd-hd{
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
@@ -128,9 +112,7 @@
     .r1 .r2 .r3{
         margin-left: 20p;
     }
-    .Services{
-        background-image: linear-gradient(-90deg,#faeaab,#faeba9);
-    }
+    
     .Services-hd{
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
@@ -140,9 +122,7 @@
     .r3{
         padding-bottom: 20px;
     }
-    .other-Services{
-        background-image: linear-gradient(-90deg,#fcf3d0,#fdf5d6);
-    }
+    
     .othServ-hd{
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
@@ -152,9 +132,7 @@
     .r4{
         padding-bottom: 20px;
     }
-    .about{
-        background-image: linear-gradient(-90deg,#fcf3d0,#fdf5d6);
-    }
+   
     .about-hd{
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
@@ -171,40 +149,16 @@
         font-weight:bolder;
         padding: 20px;
     }
-    .cardfitings{
-        height: 50vh;
-    }
-    .cpvc{
-        height: 50vh;
-    }
-    .fibre{
-        height: 60vh;
-    }
-    .cpsteel{
-        height: 60vh;
-    }
-    .dish{
-        height:56vh;
-    }
+    
     .elec-hd{
         padding-top: 20px;
         color: #1a1915;
         font-weight:bolder;
         padding: 20px;
    }
-   .card-pvc{
-       height: 50vh;
-   }
-   .wire{
-       height: 45vh;
-   }
-   .elect-fit{
-       height: 45vh;
+   
 
-   }
-   .Led-bulb{
-       height: 45vh;
-   }
+  
    .About-2{
     background-color: rgb(252, 252, 126);
     background: url("../images/pexels-vecislavas-popa-1571470.jpg");
@@ -216,21 +170,7 @@
     background-repeat: no-repeat;
     background-size: cover;
    }
-   .plumbing{
-       height: 46vh;
-   }
-   .wireing{
-       height: 46vh;
-   }
-   .fisher{
-       height: 42vh;
-   }
-   .hrdwre{
-       height: 41vh;
-   }
-   .blade{
-       height: 41vh;
-   }
+  
    .About-cap{
     padding-top: 25vh;
     font-weight: bold;
@@ -254,3 +194,12 @@
    .form-group{
        padding-left: 20px;
    }
+   .card-img-top{
+       height: 40vh;
+   }
+   .Cont-form{
+       padding-top: 6vh;   }
+       .footer-icons ul li a span {
+        font-size: 19px;
+        margin: 0px 15px;
+    }
