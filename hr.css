@@ -12,12 +12,16 @@
     padding: .5%;
     padding-top: 30px;
     }
-.head-bar{
+.headbar{
     background-color: red;
+    width: 100%;
+ 
 }
+
+
 .n-bar{
     background-color: red;
-    padding-right: 60vh;
+    padding-right: 65vh;
     font-size: 20px;
     font-weight: bold;
 }
@@ -25,7 +29,7 @@
     color: #ffff!important;
     font-size: 26px;
     outline: none!important;
-    border: none !important;;
+    border: none !important;
 }
 .nav-link:hover{
     font-weight: 600;
@@ -203,3 +207,4 @@
         font-size: 19px;
         margin: 0px 15px;
     }
+    
