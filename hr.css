@@ -93,15 +93,37 @@
     .home-cap{
         color: rgb(5, 5, 5);
         font-weight: bold;
-        font-size: 6vw;
+        font-size: 115.2px;
     }
+    @media screen and (min-width: 601px) {
+       .home-cap{
+       font-size: 115.2px;
+       }
+    }
+    @media screen and (max-width: 601px) {
+        .About-cap{
+        font-size: 57.5px;
+        }
+     }
+
     .home-cap2{
         color: rgb(0, 0, 0);
         font-size: 3vw;
         padding-top: 30px;
         padding-right: 10%;
         padding-left: 10%;
-    }    
+    } 
+      @media screen and (min-width: 601px) {
+       .home-cap{
+       font-size:  57.6px;
+       }
+    }
+    @media screen and (max-width: 601px) {
+        .About-cap{
+        font-size: 28.8px;
+        }
+     }
+
     
     
     .prd-hd{
@@ -177,12 +199,12 @@
    .About-cap{
     padding-top: 8vh;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 40px;
     
    }
 @media screen and (min-width: 601px) {
        .About-cap{
-       font-size: 50px;
+       font-size: 40px;
        }
     }
     @media screen and (max-width: 601px) {
@@ -193,7 +215,7 @@
    .content{
     background-color: rgb(26, 22, 22);
     opacity: .5;
-    height: 80vh;
+    height: 90vh;
    }
    .cont-hd{
     padding: 2%;
