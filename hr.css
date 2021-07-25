@@ -93,16 +93,16 @@
     .home-cap{
         color: rgb(5, 5, 5);
         font-weight: bold;
-        font-size: 57.5px;
+        font-size: 65px;
     }
     @media screen and (min-width: 601px) {
        .home-cap{
-       font-size: 28.75px;
+       font-size: 10vw;
        }
     }
     @media screen and (max-width: 601px) {
         .About-cap{
-        font-size: 57.5px;
+        font-size: 65px;
         }
      }
 
