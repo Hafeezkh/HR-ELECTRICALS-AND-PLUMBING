@@ -187,7 +187,7 @@
    .About-2{
     background-color: rgb(252, 252, 126);
     background: url("images/pexels-vecislavas-popa-1571470.jpg");
-    height: 90vh;
+    height: 100vh;
     background-size: 50%;
     background-size: cover;
     border-radius: 0px!important;
@@ -215,7 +215,7 @@
    .content{
     background-color: rgb(26, 22, 22);
     opacity: .5;
-    height: 90vh;
+    height: 100vh;
    }
    .cont-hd{
     padding: 2%;
