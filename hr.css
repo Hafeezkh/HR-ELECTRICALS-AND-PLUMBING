@@ -74,7 +74,7 @@
 }
 .home-page{
     background-color: rgb(252, 252, 126);
-    background: url("..//images/re-image.jpg");
+    background: url("images/re-image.jpg");
     height: 80vh;
     background-size: 50%;
     background-size: cover;
@@ -165,7 +165,7 @@
   
    .About-2{
     background-color: rgb(252, 252, 126);
-    background: url("..//images/pexels-victoria-borodinova-3315291.jpg");
+    background: url("images/pexels-vecislavas-popa-1571470.jpg");
     height: 100vh;
     background-size: 50%;
     background-size: cover;
