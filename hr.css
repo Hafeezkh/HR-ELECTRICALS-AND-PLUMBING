@@ -97,10 +97,10 @@
     }
     @media screen and (min-width: 601px) {
        .home-cap{
-       font-size: 10vw;
+       font-size: 4vw;
        }
     }
-    @media screen and (max-width: 601px) {
+    @media screen and (max-width: 1000px) {
         .About-cap{
         font-size: 65px;
         }
@@ -115,12 +115,12 @@
     } 
       @media screen and (min-width: 601px) {
        .home-cap{
-       font-size:  14.35px;
+       font-size:  2vw;
        }
     }
-    @media screen and (max-width: 601px) {
+    @media screen and (max-width: 1000px) {
         .About-cap{
-        font-size: 14.35px;
+        font-size: 25px;
         }
      }
 
