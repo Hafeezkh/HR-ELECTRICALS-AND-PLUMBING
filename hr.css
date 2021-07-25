@@ -75,7 +75,7 @@
 .home-page{
     background-color: rgb(252, 252, 126);
     background: url("../images/re-image.jpg");
-    height: 100vh;
+    height: 80vh;
     background-size: 50%;
     background-size: cover;
     border-radius: 0px!important;
@@ -85,9 +85,9 @@
     }
 .home-page2{
         background-color: rgb(255, 249, 161);
-        height: 100vh;
+        height: 80vh;
         opacity: .5;
-        padding-top: 150px
+        padding-top: 100px
         
     }
     .home-cap{
