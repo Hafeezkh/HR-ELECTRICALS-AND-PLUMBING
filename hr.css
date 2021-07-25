@@ -102,7 +102,17 @@
         padding-top: 30px;
         padding-right: 10%;
         padding-left: 10%;
-    }     
+    }    
+@media screen and (min-width: 601px) {
+       .home-cap2{
+       font-size: 40px;
+       }
+    }
+    @media screen and (max-width: 601px) {
+        .home-cap2{
+        font-size: 25px;
+        }
+     }
     
     .prd-hd{
         padding: 2%;
@@ -182,12 +192,12 @@
    }
 @media screen and (min-width: 601px) {
        .About-cap{
-       font-size: 25px;
+       font-size: 40px;
        }
     }
     @media screen and (max-width: 601px) {
         .About-cap{
-        font-size: 40px;
+        font-size: 25px;
         }
      }
    .content{
