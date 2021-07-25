@@ -87,19 +87,29 @@
         background-color: rgb(255, 249, 161);
         height: 80vh;
         opacity: .5;
-        padding-top: 100px
+        padding-top: 15vh;
         
     }
     .home-cap{
         color: rgb(5, 5, 5);
         font-weight: bold;
-        font-size: 6vw;
+        font-size: 65px;
     }
+@media screen and (min-width: 601px) {
+       .home-cap2{
+       font-size: 65px;
+       }
+    }
+    @media screen and (max-width: 601px) {
+        .home-cap2{
+        font-size: 40px;
+        }
+     }
   
     .home-cap2{
         color: rgb(0, 0, 0);
-        font-size: 4vw;
-        padding-top: 15vh;
+        font-size: 40px;
+        padding-top: 4vh;
         padding-right: 10%;
         padding-left: 10%;
     }    
