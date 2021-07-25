@@ -44,7 +44,7 @@
 .navbar-brand{
     font-weight: bold;
     color: #ffff!important;
-    font-size: 2vw;
+    font-size: 15px;
     outline: none!important;
     border: none !important;
     
@@ -108,7 +108,7 @@
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
         font-weight: 600;
-        font-size: 3vw;
+        font-size: 40px;
     }
     .r1{
         padding-top: 10px;
@@ -121,7 +121,7 @@
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
         font-weight: 600;
-        font-size: 3vw;
+        font-size: 40px;
     }
     .r3{
         padding-bottom: 20px;
@@ -131,7 +131,7 @@
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
         font-weight: 600;
-        font-size: 3vw;
+        font-size: 40px;
     }
     .r4{
         padding-bottom: 20px;
@@ -141,7 +141,7 @@
         padding: 2%;
         background-image: linear-gradient(-90deg,#f70000,#fa0000);
         font-weight: 600;
-        font-size: 50px;
+        font-size: 40px;
      }
     .r5{
         padding-bottom: 20px;
@@ -165,7 +165,7 @@
    .About-2{
     background-color: rgb(252, 252, 126);
     background: url("images/pexels-vecislavas-popa-1571470.jpg");
-    height: 100vh;
+    height: 80vh;
     background-size: 50%;
     background-size: cover;
     border-radius: 0px!important;
@@ -193,7 +193,7 @@
    .content{
     background-color: rgb(26, 22, 22);
     opacity: .5;
-    height: 100vh;
+    height: 80vh;
    }
    .cont-hd{
     padding: 2%;
