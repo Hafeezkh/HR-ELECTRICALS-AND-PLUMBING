@@ -102,7 +102,7 @@
     }
     @media screen and (max-width: 601px) {
         .home-cap{
-        font-size: 8.5vw;
+        font-size: 7.5vw;
         }
      }
   
@@ -120,7 +120,7 @@
     }
     @media screen and (max-width: 601px) {
         .home-cap2{
-        font-size: 6.5vw;
+        font-size: 4vw;
         }
      }
     
@@ -207,7 +207,7 @@
     }
     @media screen and (max-width: 601px) {
         .About-cap{
-        font-size: 7vw;
+        font-size: 5.5vw;
         }
      }
    .content{
